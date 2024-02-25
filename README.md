@@ -1,24 +1,26 @@
-Traffic Light Protocol - meeting classification
-===============================================
+# Traffic Light Protocol - Meeting Classification
 
-The [Traffic Light Protocol](http://www.us-cert.gov/tlp/) (TLP) is a well-known set of classification for sensitive information.
-The TLP classification is regularly used by the CSIRT community around the world.
+The [Traffic Light Protocol](http://www.us-cert.gov/tlp/) (TLP) is a well-known set of classifications for sensitive information.
 
-I was looking for a way to state the TLP classification when doing physical meetings.
+The TLP classification is regularly used by the CSIRT community and other organizations around the world.
 
-So I did small A4/US letter landscape poster for each TLP classification 
-to publish on the door where the meeting is taking place.
+I was looking for a way to indicate the TLP classification during physical meetings.
 
-Posters
-=======
+So, I created a small A4 landscape set of posters for each TLP classification to display on the door where the meeting is taking place.
 
- * [PDF format (US letter format)](https://github.com/adulau/tlp-meeting/blob/master/TLP-Classification-letter.pdf?raw=true)
- * [PDF format (A4 format)](https://github.com/adulau/tlp-meeting/blob/master/TLP-Classification-a4.pdf?raw=true) 
- * [ODT source file](https://github.com/adulau/tlp-meeting/blob/master/TLP-Classification.odt)
+![TLP Meeting Classification](./images/tlp-overview.png)
 
-License
-=======
+# Posters
 
-Documents are released under the public domain and the text is based on the US-CERT reference document.
+* [PDF format (A4 size)](https://github.com/adulau/tlp-meeting/blob/master/TLP-Classification-a4.pdf?raw=true)
+* [LibreOffice ODT source file](https://github.com/adulau/tlp-meeting/blob/master/TLP-Classification.odt)
 
-Alexandre Dulaunoy http://www.github.com/adulau
+# License
+
+The documents are released under [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. 
+
+Alexandre Dulaunoy
+http://www.github.com/adulau
+
